@@ -1,4 +1,5 @@
- Hi👋, I'm Joe Muhanda
+                                Hi👋, I'm Joe Muhanda
+                              
 
 - 🔭 I’m currently working on PHP projects laravel franmeworks
 - 🌱 I’m currently learning Python with Django frameworks
@@ -9,10 +10,10 @@
 - 😄 Pronouns: Juniour DevOp engingeer
 - ⚡ Fun fact: Talk is cheap, Show me the code :)
 
-SKILLS:
+                                SKILLS:
 
 I am resourceful in PHP frameworks ,Python language (Django frameworks) and Javascript (React JS)  . I enjoy working in a team for day to day learning. 
 
-CAREER OBJECTIVE:
+                             CAREER OBJECTIVE:
 
 To have a growth-oriented and challenging career, where I can contribute my knowledge and skills to the organization and enhance my experience through continuous learning and teamwork
