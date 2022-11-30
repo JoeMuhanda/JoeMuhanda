@@ -1,4 +1,5 @@
-                                Hi👋, I'm Joe Muhanda
+                                <b>Hi👋, I'm Joe Muhanda</b>
+                                
                              I am a passionate software Developer  
 
 - 🔭 I’m currently working on PHP projects laravel franmeworks
