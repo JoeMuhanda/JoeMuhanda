@@ -1,4 +1,4 @@
-                               Hi👋, I'm Joe Muhanda, a passionate software Developer.
+                         Hi👋, I'm Joe Muhanda, a passionate software Developer.
                                
 
 - 🔭 I’m currently working on PHP projects laravel franmeworks
@@ -16,4 +16,4 @@ I am resourceful in PHP frameworks ,Python language (Django frameworks) and Java
 
                              CAREER OBJECTIVE:
 
-To have a growth-oriented and challenging career, where I can contribute my knowledge and skills to the organization and enhance my experience through continuous learning and teamwork
+To have a growth-oriented and challenging career, where I can contribute my knowledge and skills to the organization and enhance my experience through continuous learning and teamwork.
