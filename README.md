@@ -1,4 +1,4 @@
-                                <b>Hi👋, I'm Joe Muhanda</b>
+                               Hi👋, I'm Joe Muhanda</
                                 
                              I am a passionate software Developer  
 
