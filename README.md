@@ -1,5 +1,5 @@
                                 Hi👋, I'm Joe Muhanda
-                              
+                             I am a passionate software Developer  
 
 - 🔭 I’m currently working on PHP projects laravel franmeworks
 - 🌱 I’m currently learning Python with Django frameworks
