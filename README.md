@@ -1,11 +1,11 @@
                          Hi👋, I'm Joe Muhanda, a passionate software Developer.
                                
 
-- 🔭 I’m currently working on PHP projects laravel franmeworks
+- 🔭 I’m currently working on PHP projects laravel frameworks https://joemuhanda.w3spaces.com
 - 🌱 I’m currently learning Python with Django frameworks
 - 👯 I’m looking to collaborate on Software Development projects
 - 🤔 I’m looking for help with Javascript React frameworks
-- 💬 Ask me about Frontend Developments
+- 💬 Ask me about Frontend Developments   http://spas.epizy.com
 - 📫 How to reach me: joemuhanda17@gmail.com
 - 😄 Pronouns: Juniour DevOp engingeer
 - ⚡ Fun fact: Talk is cheap, Show me the code :)
