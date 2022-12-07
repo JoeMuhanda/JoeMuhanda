@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Sprinter Real Estate Website](https://www.sprinterinvestments.co.ke/)
 
-- 🌱 I’m currently learning **Django, Software Development**
+- 🌱 I’m currently learning **Django, Cyber Security**
 
 - 👯 I’m looking to collaborate on [Software Development Projects](https://wordpress.com/view/techxdotsolutions.wordpress.com)
 
