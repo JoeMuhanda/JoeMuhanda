@@ -8,13 +8,8 @@ Hi👋, I'm Joe Muhanda, a passionate software Developer.
 - 👯 I’m looking to collaborate on Software Development projects
 - 💬 Ask me about Frontend Developments  www.spas.epizy.com
 - 📫 How to reach me: joemuhanda17@gmail.com 
-- 😄 Pronouns: Juniour DevOp engingeer
+- 😄 Pronouns: Juniour DevOp engingeer <img src="https://user-images.githubusercontent.com/88422453/206272184-7d80a158-b98c-423d-9fc3-ed8d5797e406.gif" width="400" height="400" />
 - ⚡ Fun fact: Talk is cheap, Show me the code :)
--  <img src="https://user-images.githubusercontent.com/88422453/206280142-3660e120-524f-44d2-9883-6ecfac6bb82a.gif width="400" height="350" />
-     
-
-      
-         
                                                           SKILLS:
 I am resourceful in PHP frameworks ,Python language (Django frameworks) and Javascript (React JS) . I enjoy working in a team for day to day learning.
 
