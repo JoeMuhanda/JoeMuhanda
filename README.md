@@ -7,15 +7,13 @@
 
 - 👯 I’m looking to collaborate on [Wordpress Projecs](https://wordpress.com/view/techxdotsolutions.wordpress.com)
 
-- 🤝 I’m looking for help with **Docker**
-
-- 👨‍💻 All of my projects are available at [https://joemuhanda.w3spaces.com/](https://joemuhanda.w3spaces.com/)
+- 👨‍💻 All of my projects are available at [www.joemuhanda.com/](https://joemuhanda.w3spaces.com/)
 
 - 💬 Ask me about: **Python,Javascript,PHP**
 
 - 📫 How to reach me **Joemuhanda17@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/joe-muhanda-2ab135153/](https://www.linkedin.com/in/joe-muhanda-2ab135153/)
+- 📄 Know about my experiences [My experiences portfolio](https://www.linkedin.com/in/joe-muhanda-2ab135153/)
 
 - ⚡ Fun fact: **Talk is cheap,Show me the code :)**
 
