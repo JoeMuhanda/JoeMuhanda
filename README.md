@@ -9,7 +9,7 @@
 - 📫 How to reach me: joemuhanda17@gmail.com 
 - 😄 Pronouns: Juniour DevOp engineer 
 - ⚡ Fun fact: **Talk is cheap, Show me the code :)**
-                                              <img src="https://user-images.githubusercontent.com/88422453/206272184-7d80a158-b98c-423d-9fc3-ed8d5797e406.gif" width="400" height="200" />
+             <img src="https://user-images.githubusercontent.com/88422453/206272184-7d80a158-b98c-423d-9fc3-ed8d5797e406.gif" width="400" height="200" />
 
 
                                           ** CAREER OBJECTIVE:**
