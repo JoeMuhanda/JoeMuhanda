@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Django, Software Development**
 
-- 👯 I’m looking to collaborate on [Wordpress Projects](https://wordpress.com/view/techxdotsolutions.wordpress.com)
+- 👯 I’m looking to collaborate on [ <img src="https://user-images.githubusercontent.com/88422453/206301759-fe1c3838-14c7-4eb7-96fc-834505146edd.gif" width="140" height="140" />
+
+](https://wordpress.com/view/techxdotsolutions.wordpress.com)
 
 - 👨‍💻 All of my projects are available at [My Projects' portfolio](https://joemuhanda.w3spaces.com/)
 
-- 💬 Ask me about: **Python,Javascript,PHP** <img src="https://user-images.githubusercontent.com/88422453/206301759-fe1c3838-14c7-4eb7-96fc-834505146edd.gif" width="140" height="140" />
-
-
+- 💬 Ask me about: **Python,Javascript,PHP**
 
 - 📫 How to reach me **Joemuhanda17@gmail.com**
 
