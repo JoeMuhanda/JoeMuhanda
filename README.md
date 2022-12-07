@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Joe Muhanda</h1>
-<h3 align="center">A passionate frontend developer from Nairobi,Kenya</h3>
+<h3 align="center">A passionate Full stack developer from Nairobi,Kenya</h3>
 
-- 🔭 I’m currently working on [Sprinter Website](https://www.sprinterinvestments.co.ke/)
+- 🔭 I’m currently working on [Sprinter Real Estate Website](https://www.sprinterinvestments.co.ke/)
 
 - 🌱 I’m currently learning **Django, Software Development**
 
-- 👯 I’m looking to collaborate on [Wordpress Projecs](https://wordpress.com/view/techxdotsolutions.wordpress.com)
+- 👯 I’m looking to collaborate on [Wordpress Projects](https://wordpress.com/view/techxdotsolutions.wordpress.com)
 
-- 👨‍💻 All of my projects are available at [www.joemuhanda.com/](https://joemuhanda.w3spaces.com/)
+- 👨‍💻 All of my projects are available at [My Projects' portfolio](https://joemuhanda.w3spaces.com/)
 
 - 💬 Ask me about: **Python,Javascript,PHP**
 
