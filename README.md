@@ -13,4 +13,4 @@
 
 
                                           ** CAREER OBJECTIVE:**
-To have a growth-oriented and challenging career, where I can contribute my knowledge and skills to the organization and enhance my experience through continuous learning and teamwork.I enjoy working in a team for day to day learning.
+To have a growth-oriented and challenging career, where I can contribute my knowledge and skills to a Healthcare IT industry and enhance my experience through continuous learning and teamwork.*I enjoy working in a team for day to day learning.*
