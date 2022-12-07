@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joe Muhanda  </h1>
-<h3 align="center">A passionate Full stack developer from Nairobi,Kenya</h3>
+<h3 align="center">A passionate Full stack developer from Nairobi,Kenya.</h3>
 
 - 🔭 I’m currently working on : [Sprinter Real Estate Website](https://www.sprinterinvestments.co.ke/)
 
