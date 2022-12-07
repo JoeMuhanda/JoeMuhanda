@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [My Projects' portfolio](https://joemuhanda.w3spaces.com/)
 
-- 💬 Ask me about: **Python,Javascript,PHP** <img src="https://user-images.githubusercontent.com/88422453/206301759-fe1c3838-14c7-4eb7-96fc-834505146edd.gif" width="40" height="40" />
+- 💬 Ask me about: **Python,Javascript,PHP** <img src="https://user-images.githubusercontent.com/88422453/206301759-fe1c3838-14c7-4eb7-96fc-834505146edd.gif" width="140" height="140" />
 
 
 
