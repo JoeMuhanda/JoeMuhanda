@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joe Muhanda</h1>
 <h3 align="center">A passionate frontend developer from Nairobi,Kenya</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joemuhanda" alt="joemuhanda" /></a> </p>
-
 - 🔭 I’m currently working on [Sprinter Website](https://www.sprinterinvestments.co.ke/)
 
 - 🌱 I’m currently learning **Django, Software Development**
@@ -32,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joemuhanda&show_icons=true&locale=en&layout=compact" alt="joemuhanda" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joemuhanda&" alt="joemuhanda" /></p>
+<p>
