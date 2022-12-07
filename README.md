@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joe Muhanda  <img src="https://user-images.githubusercontent.com/88422453/206301759-fe1c3838-14c7-4eb7-96fc-834505146edd.gif" width="140" height="60" /></h1>
+<h1 align="center">Hi 👋, I'm Joe Muhanda  </h1>
 <h3 align="center">A passionate Full stack developer from Nairobi,Kenya</h3>
 
 - 🔭 I’m currently working on : [Sprinter Real Estate Website](https://www.sprinterinvestments.co.ke/)
