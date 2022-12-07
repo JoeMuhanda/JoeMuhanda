@@ -1,4 +1,4 @@
-#**Hi👋, I'm Joe Muhanda, a passionate software Developer.**	
+#Hi👋, I'm Joe Muhanda, a passionate software Developer.
 
 - 🔭 I’m currently working on **PHP projects laravel frameworks** www.sprinterinvestments.co.ke
 - 🌱 I’m currently learning **Python with Django frameworks**  www.joemuhanda.w3spaces.com 
