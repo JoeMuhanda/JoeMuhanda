@@ -11,10 +11,11 @@ Hi👋, I'm Joe Muhanda, a passionate software Developer.
 - 😄 Pronouns: Juniour DevOp engingeer 
 - ⚡ Fun fact: Talk is cheap, Show me the code :)
 - <img src="https://user-images.githubusercontent.com/88422453/206272184-7d80a158-b98c-423d-9fc3-ed8d5797e406.gif" width="400" height="200" />
-                                                          SKILLS:
+- 
+                                           SKILLS:
 I am resourceful in PHP frameworks ,Python language (Django frameworks) and Javascript (React JS) . I enjoy working in a team for day to day learning.
 
-                                                      CAREER OBJECTIVE:
+                                           CAREER OBJECTIVE:
 To have a growth-oriented and challenging career, where I can contribute my knowledge and skills to the organization and enhance my experience through continuous learning and teamwork.
 
 
