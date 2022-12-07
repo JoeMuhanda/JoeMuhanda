@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django, Software Development**
 
-- 👯 I’m looking to collaborate on (https://wordpress.com/view/techxdotsolutions.wordpress.com)
+- 👯 I’m looking to collaborate on [Software Development Projects](https://wordpress.com/view/techxdotsolutions.wordpress.com)
 
 - 👨‍💻 All of my projects are available at [My Projects' portfolio](https://joemuhanda.w3spaces.com/)
 
