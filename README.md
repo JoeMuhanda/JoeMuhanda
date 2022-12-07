@@ -11,7 +11,8 @@ Hi👋, I'm Joe Muhanda, a passionate software Developer.
 - 📫 How to reach me: joemuhanda17@gmail.com
 - 😄 Pronouns: Juniour DevOp engingeer
 - ⚡ Fun fact: Talk is cheap, Show me the code :)
-- [a](https://user-images.githubusercontent.com/88422453/206271080-5a3a5339-4fcb-4255-b291-8c808e0c14eb.gif)
+![a](https://user-images.githubusercontent.com/88422453/206272184-7d80a158-b98c-423d-9fc3-ed8d5797e406.gif)
+
 
                                 SKILLS:
 
